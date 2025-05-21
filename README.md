@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Welcome to my README 🫶🏽  
+- 🔭 I’m currently working on starting a blog leveraging analytics. 📝
+- 🌱 I’m currently learning Python...😅 and getting familiar with coding again after a 6 year hiatus.💪🏽
+- ⚡ Fun fact: Grew up with dogs but became a cat mom 😸
 <!--
 **asiab14/asiab14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
