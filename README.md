@@ -15,7 +15,7 @@
 ###### Trying out header 6
 
 # Step 2: Images
-![Image of Sailor Moon](https://images.app.goo.gl/v1JeRoUxP4y662nv7)
+![Image of Sailor Moon](https://cdn.shopify.com/s/files/1/1083/2612/files/SM2_480x480.jpg?v=1723524192)
 
 # Step 3: Code Examples
 ```
